@@ -12,4 +12,18 @@
         <tag>随笔</tag>
       </tags>
   </entry>
+  <entry>
+    <title>hexo常用命令</title>
+    <url>/2025/05/12/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<p>发博客时候可能会用到，记录一下防止忘了</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page categories    <span class="comment"># 新建分类</span></span><br><span class="line">hexo new page tags          <span class="comment"># 新建标签</span></span><br><span class="line">hexo new <span class="string">&quot;name&quot;</span>             <span class="comment"># 新建文章</span></span><br><span class="line">hexo new page <span class="string">&quot;name&quot;</span>        <span class="comment"># 新建页面</span></span><br><span class="line">hexo g                      <span class="comment"># 生成页面</span></span><br><span class="line">hexo d                      <span class="comment"># 部署</span></span><br><span class="line">hexo g -d                   <span class="comment"># 生成页面并部署</span></span><br><span class="line">hexo s                      <span class="comment"># 本地预览</span></span><br><span class="line">hexo clean                  <span class="comment"># 清除缓存和已生成的静态文件</span></span><br><span class="line">hexo <span class="built_in">help</span>                   <span class="comment"># 帮助</span></span><br></pre></td></tr></table></figure>
+<p>还有这个主题网站，想要换主题可以在这里下载<a href="https://hexo.io/themes/">theme</a>,不过应该不会换主题吧，有点麻烦呢</p>
+]]></content>
+      <categories>
+        <category>备忘录</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
 </search>
